@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#cython: language_level=3
 ## source: https://nitratine.net/blog/post/simulate-keypresses-in-python/
 from pynput.keyboard import Controller
 import time
