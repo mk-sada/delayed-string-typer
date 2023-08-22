@@ -22,7 +22,7 @@ On MacOS, when running the first time, ensure that the permission for the termin
 
 <br/>
 
-![running example](bin/emulate_keypress__mk20230822.gif)
+![running example](media/emulate_keypress__mk20230822.gif)
 
 <sub>
 ** Note: A cython compiled binary is also included at `bin/emulateKeyPress_osx_bin`. If you have a macbook with M-series processor, you can skip the installation bit and use the binary as-is, out of the box.
